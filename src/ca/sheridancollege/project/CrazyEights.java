@@ -7,7 +7,7 @@ package ca.sheridancollege.project;
 
 /**
  *
- * @author Kiran
+ * @author Kirandeep
  */
 
 public class CrazyEights extends Card { 
