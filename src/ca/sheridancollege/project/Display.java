@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Hp
+ * @author Thinkers
  */
 public class Display {
     public static boolean p1=false;
