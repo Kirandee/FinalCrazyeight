@@ -14,6 +14,7 @@ import java.util.Collections;
  * HINT, you might want to subclass this more than once.
  * The group of cards has a maximum size attribute which is flexible for reuse.
  * @author Sivagama
+ modified by thinkers
  */
 public class GroupOfCards 
 {
