@@ -8,7 +8,7 @@ package ca.sheridancollege.project;
 import java.util.Scanner;
 /**
  *
- * @author Hp
+ * @author Thinkers
  */
 public class GameChild extends Game{
     Player p1;
