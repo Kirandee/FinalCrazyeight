@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  *
- * @author Hp
+ * @author THinkers
  */
 public class Generate {
      public int numberofCards = 52;
